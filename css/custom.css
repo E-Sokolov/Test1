@@ -1,0 +1,14 @@
+#pageBody{
+    padding-top: 15%;
+}
+form{
+    max-width: 600px;
+    vertical-align: middle;
+    margin: 0 auto;
+}
+table{
+    margin-top: 50px !important;
+    width: 100%;
+    vertical-align: middle;
+    margin: 0 auto;
+}
